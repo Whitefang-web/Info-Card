@@ -1,0 +1,160 @@
+body {
+    //background: green;
+}
+
+#outer {
+    //background-color: red;
+    //height: 500px;
+    //width: 500px;
+    //border-radius: 40px;
+}
+
+
+
+#upper {
+    height: 200px;
+    width: 500px;
+    border-radius: 40px;
+    background-color: rgb(47, 5, 234);
+
+    border-radius: 40px 40px 0px 0px;
+    margin-left: 500px;
+    box-shadow: 5px 5px 10px black;
+
+}
+
+#upper1 {
+    // margin-top: 20px;
+    //background-color: green;
+    width: 150px;
+    height: 200px;
+    float: left;
+    border-radius: 40px 0px 0px 0px;
+}
+
+#upper2 {
+    background-image: url("../image/i3.jpg");
+    float: left;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-top: 0px;
+    border: 1px solid black;
+
+}
+
+#image {}
+
+#upper3 {
+    float: left;
+    width: 150px;
+    height: 100px;
+    // background:black;
+    border-radius: 0px 40px 0px 0px;
+}
+
+#lower {
+    background-color: snow;
+    height: 500px;
+    width: 500px;
+    //margin-top: px;
+    border: 1px solid white;
+    border-radius: 0px 0px 40px 40px;
+    box-shadow: :5px 5px 10px black;
+    margin-left: 500px;
+    box-shadow: 5px 5px 10px black;
+
+}
+
+#l1 {
+    // background-color: green;
+    height: 150px;
+    width: 500px;
+    text-align: center;
+    padding-top: 40px;
+
+
+}
+
+#l2 {
+    // background-color: blue;
+    height: 150px;
+    width: 500px;
+    //margin-top: 30px;
+}
+
+#m1 {
+    height: 150px;
+    width: 125px;
+    // background-color: bisque;
+    float: left;
+
+}
+
+#m2 {
+    height: 150px;
+    width: 125px;
+    // background-color: rgb(13, 193, 76);
+    float: left;
+
+}
+
+#m3 {
+    height: 150px;
+    width: 125px;
+    // background-color: rgb(239, 11, 182);
+    float: left;
+
+}
+
+#m4 {
+    height: 150px;
+    width: 125px;
+    // background-color: rgb(239, 11, 182);
+    float: left;
+
+}
+
+#mid {
+    // background-color: yellow;
+    height: 100px;
+    width: 500px;
+}
+
+#mid1 {
+    height: 100px;
+    width: 250px;
+    //background-color: brown;
+    float: left;
+
+}
+
+#mid2 {
+    height: 100px;
+    width: 250px;
+    float: right;
+    //background-color: green;
+}
+
+//#l3
+    {
+    // background-color: blue;
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+#middle {
+    //background-color: blue;
+    height: 150px;
+    width: 500px;
+}
+
+
+#lowerl1 {
+    height: 100px;
+    width: 500px;
+    //background: blue;
+    border-radius: 0px 0px 40px 40px;
+
+}
